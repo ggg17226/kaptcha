@@ -101,8 +101,8 @@ uploadArchives {
 
                 developers {
                     developer {
-                        id 'pengpeng'
-                        name 'Peng Peng'
+                        id 'aghost'
+                        name 'aghost'
                     }
                 }
             }
