@@ -8,8 +8,8 @@ import java.security.SecureRandom;
 public class ChineseTextProducer implements TextProducer {
   private String[] simplifiedChineseTexts =
       new String[] {
-        "包括焦点", "新道消点", "服分目搜", "索姓名電", "子郵件信", "主旨請回", "電子郵件", "給我所有", "討論區明", "發表新文", "章此討論",
-        "區所有文", "章回主題", "樹瀏覽搜"
+        "彩色于是", "神的存在", "婆婆说呢", "多少库存", "疲劳程度", "却暗藏杀鸡", "柔柔弱弱", "点点滴滴", "滴滴答答", "仍然让人", "凄凄切切",
+        "自作主张", "详细信息", "报备表吧"
       };
 
   /** @return random Chinese text */
